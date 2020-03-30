@@ -1,0 +1,44 @@
+<html>
+
+	<head>
+		<title>Project 1 oldobjectsnewideas</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+		<!-- <script src="https://cdn.jsdelivr.net/npm/p5@0.10.2/lib/p5.js"></script>
+		<script src="sketch.js"></script> -->
+	</head>
+
+	<body>
+		<main>
+			<h2> project 1 idea</h2>
+			<h4> Inspiration</h4>
+			<p>I would like to make a pop out book. It will mainly focus on its sculpture feelings, and also story telling abilities.
+				 <strong>I am going to use traditional paper media, since I won't have access to digital prints. I’m thinking of working with ink; and all the small paper samples I brought for digital printing tests. Perhaps there won’t be many digital parts for it, as I’m still thinking of how that would fit in.
+</strong>  Here are some samples I've been looking into:
+<img src="795dbc8ee29834f8231553d46b689d52.jpg"></div>
+<img src="Vic House_2.jpg"></div>
+
+
+
+
+
+			<h4> Phase 1</h4>
+			<div> <img src="Pencil_Set_1080x.png"></div>
+			<p>this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph.</p>
+			<h4> Phase 2 - in progrss</h4>
+			<div id="inProcess">
+			<img src="http://oldobjectsnewideas.com/reb.jpg" width="20vw">
+		</div>
+			<p>this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful
+				paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this
+				is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph. this is my thoughtful paragraph.</p>
+			<h4> Materials</h4>
+			<ul>
+				<li>this is my thoughtful <a href="https://www.google.com/search?hl=en&q=crayola%20markers">list item</a></li>
+				<li>this is my thoughtful list item</li>
+				<li>this is my thoughtful list item</li>
+				<li>this is my thoughtful list item</li>
+			</ul>
+
+		</main>
+
+</html>
